@@ -7,6 +7,6 @@ Black => inactive \
 <br/>
 Both are trained without recurrent connections. So far training without recurrent bptt is giving higher results.
 
-<img src="breakout_3.gif" width="200">
+<img src="breakout_3.gif" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Zaxxon_7800.gif" width="200">
 
-<img src="Zaxxon_7800.gif" width="200">
+

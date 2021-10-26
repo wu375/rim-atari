@@ -1,4 +1,4 @@
-# rim-atari
+# Recurrent Independent Mechanisms and atari-ppo training
 My implementation of Recurrent Independent Mechanisms and visualization of memory usage
 
 There are 6 blocks below the gameplay indicating which of them are activated. \

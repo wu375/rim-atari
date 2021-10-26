@@ -4,3 +4,5 @@ My implementation of Recurrent Independent Mechanisms and visualization of memor
 ![Breakout](breakout_3.gif)
 
 ![Zaxxon](Zaxxon_7800.gif)
+
+<img src="breakout_3.gif" width="350">
